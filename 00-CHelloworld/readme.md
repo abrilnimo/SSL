@@ -23,4 +23,4 @@ de los trabajos posteriores.
 • Problema  
 Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.  
   
-• hipótesis de trabajo: 
+• Hipótesis de trabajo: Instalar y aprender a utilizar las herramientas que utilizaremos a lo largo del año, realizando el primer trabajo Hello world.
