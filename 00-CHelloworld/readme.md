@@ -1,13 +1,13 @@
 Numero de equipo: 15  
 Nombre del equipo: Avatar  
   
-Autores de la resolución:
+Autores de la resolución:  
 ◦ abrilnimo  
 ◦ 2079732  
 ◦ Dominguez Nimo  
 ◦ Abril  
   
-• 00-CHelloworld    
+00-CHelloworld    
 • Objetivos  
 -Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el
 desarrollo de un programa simple.  
@@ -23,10 +23,4 @@ de los trabajos posteriores.
 • Problema  
 Adquirir y preparar los recursos necesarias para resolver los trabajos del curso.  
   
-• hipótesis de trabajo: .  
-
-Opcionalmente, para
-facilitar el desarrollo se recomienda incluir:
-• un archivo .gitignore
-• un archivo Makefile.
-• archivos tests
+• hipótesis de trabajo: 
