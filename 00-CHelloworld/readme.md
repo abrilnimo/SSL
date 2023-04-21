@@ -7,7 +7,7 @@ Autores de la resolución:
 ◦ Dominguez Nimo  
 ◦ Abril  
   
-00-CHelloworld    
+TRABAJO N° 0; "Hello, World!” en C   
 • Objetivos  
 -Demostrar capacidad para editar, compilar, y ejecutar programas C mediante el
 desarrollo de un programa simple.  
