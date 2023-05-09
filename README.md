@@ -5,7 +5,7 @@ Sintaxis y semántica de los Lenguajes
 
 -Curso: K2006  
 
--Ano de cursada: 2023  
+-Año de cursada: 2023  
 
 -Legajo: 2079732  
 
